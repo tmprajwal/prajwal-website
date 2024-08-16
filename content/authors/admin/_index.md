@@ -72,6 +72,6 @@ user_groups:
   - Researchers
 ---
 
-Prajwal Mohan Murthy is a senior Post-Doctoral Research Associate in the Laboratory for Nuclear Science at MIT. His research interests include experimental fundamental symmetries, at the intersections of nuclear and atomic physics.
+Prajwal Mohan Murthy is a senior Post-Doctoral Research Associate in the Laboratory for Nuclear Science at MIT. His research interests include experimental fundamental symmetries, at the intersection of nuclear, particle, and atomic physics.
 
 
