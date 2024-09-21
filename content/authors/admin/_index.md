@@ -54,6 +54,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/tmprajwal
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Murthy%2C+P+T+M&terms-0-field=author&terms-1-operator=OR&terms-1-term=Mohanmurthy%2C+P&terms-1-field=author&terms-2-operator=OR&terms-2-term=Murthy%2C+P+M&terms-2-field=author&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
