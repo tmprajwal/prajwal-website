@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Prajwal T. Mohan Murthy
+      title: Prajwal MohanMurthy
       image:
         filename: welcome.jpg
       text: |
@@ -72,7 +72,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./author/prajwal-t.-mohan-murthy/" cta_text="Learn more about Prajwal →" %}}
+        {{% cta cta_link="./people/" cta_text="Learn more about Prajwal →" %}}
     design:
       columns: '1'
 ---
