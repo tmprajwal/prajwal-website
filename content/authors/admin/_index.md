@@ -4,7 +4,7 @@ title: Prajwal MohanMurthy
 
 # Full Name (for SEO)
 first_name: Prajwal
-last_name: Mohan-Murthy
+last_name: Mohan Murthy
 
 # Is this the primary user of the site?
 superuser: true
