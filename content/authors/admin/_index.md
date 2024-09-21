@@ -46,7 +46,7 @@ social:
     icon_pack: fas
     link: 'mailto:prajwal@alum.mit.edu'
   - icon: linkedin
-    icon_pack: brands
+    icon_pack: fab
     link: https://www.linkedin.com/in/tmprajwal/
   - icon: google-scholar
     icon_pack: ai
