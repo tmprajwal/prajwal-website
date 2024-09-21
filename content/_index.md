@@ -72,7 +72,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Learn more about Prajwal →" %}}
+        {{% cta cta_link="./author/prajwal-mohanmurthy/" cta_text="Learn more about Prajwal →" %}}
     design:
       columns: '1'
 ---
