@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prajwal T. Mohan Murthy
+title: Prajwal MohanMurthy
 
 # Full Name (for SEO)
 first_name: Prajwal
@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-    - course: DSci in Physics
+    - course: D.Sc in Physics
       institution: ETH Zurich
       year: 2020
     - course: S.M in Physics
       institution: Massachusetts Institute of Technology
       year: 2015
-    - course: BSc with Honors in Physics and Mathematics
+    - course: B.S. with Honors in Physics and Mathematics
       institution: Mississippi State University
       year: 2012
 
