@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        Prajwal Mohan Murthy is a postdoctoral research associate currently based at MIT. He is measuring Electron Dipole Moments (EDM)s and neutrino mass, with a general interest in using Nuclear & Atomic Physics techniques to test fundamental symmetries.
+        Prajwal is a postdoctoral research associate currently based at MIT. He is measuring Electron Dipole Moments (EDM)s and neutrino mass, with a general interest in using Nuclear & Atomic Physics techniques to test fundamental symmetries.
   
 #  - block: collection
 #    content:
@@ -72,7 +72,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./author/prajwal-t.-mohan-murthy/" cta_text="Learn more about Prajwal →" %}}
+        {{% cta cta_link="./people/prajwal-t.-mohan-murthy/" cta_text="Learn more about Prajwal →" %}}
     design:
       columns: '1'
 ---
