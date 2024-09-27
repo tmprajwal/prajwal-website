@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include experimental fundamental symmetries, at the intersections of nuclear and atomic physics.
 
 interests:
-  - Electron Dipole Moments (EDMs)
+  - Electric Dipole Moments (EDMs)
+  - Neutrons
   - Neutrino Mass
-  - Fundamental constants
+  - Fundamental Constants
 
 education:
   courses:

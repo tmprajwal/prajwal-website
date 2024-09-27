@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        Prajwal is a senior postdoctoral research associate currently based at MIT. He is measuring Electric Dipole Moments (EDM)s, with a general interest in using Nuclear & Atomic Physics techniques to test fundamental symmetries.
+        Prajwal is a Senior Post-Doctoral Research Associate currently based at MIT. He is measuring Electric Dipole Moments (EDM)s, with a general interest in using Nuclear & Atomic Physics techniques to test fundamental symmetries.
   
 #  - block: collection
 #    content:
