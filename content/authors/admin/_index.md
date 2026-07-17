@@ -10,7 +10,7 @@ last_name: Mohan Murthy
 superuser: true
 
 # Role/position
-role: Senior Post-Doctoral Research Associate
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
