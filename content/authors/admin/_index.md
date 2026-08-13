@@ -10,7 +10,7 @@ last_name: Mohan Murthy
 superuser: true
 
 # Role/position
-role: Senior Post-Doctoral Research Associate
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -79,6 +79,6 @@ user_groups:
   - Researchers
 ---
 
-Prajwal MohanMurthy is a senior Post-Doctoral Research Associate in the Laboratory for Nuclear Science at MIT. His research interests include experimental fundamental symmetries, at the intersection of nuclear and atomic physics.
+Prajwal MohanMurthy is a Senior Research Fellow in the Laboratory for Nuclear Science at MIT. His research interests include experimental fundamental symmetries, at the intersection of nuclear and atomic physics.
 
 
